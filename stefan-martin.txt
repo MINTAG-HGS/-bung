@@ -1,7 +1,5 @@
 Dies ist der Text von Stefan Martin. Angelegt am 15.1.18 um 16:05 Uhr.
-<<<<<<< HEAD
+Ich kann hier auch rein schreiben. :)
 Dies ist der Text von Paul. Erweitert am 15.1.18 um 16:12 Uhr.
 
-=======
-Ich kann hier auch rein schreiben. :)
->>>>>>> bd1734a545f0627b28ab1db8fde610242f3315bd
+
